@@ -4,7 +4,7 @@ import './App.css';
 //COMPONENTS
 import Header from './components/Header/Header';
 import Navbar from './components/Navbar/Navbar';
-import CardUser from "./components/CardUser/CardUser";
+import CardUser from "./components/ItemListContainer/ItemListContainer";
 
 class App extends Component {
     render () {

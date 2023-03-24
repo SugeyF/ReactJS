@@ -1,7 +1,7 @@
 import React from 'react'
 import "./Navbar.css";
 
-import Shop from "../Shop/Shop";
+import Shop from "../CartWidget/CartWidget";
 
 const Navbar = () => {
   return (
